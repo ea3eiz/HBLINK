@@ -32,32 +32,32 @@ configuration file.
 
 BRIDGES = {
         'LORITO': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': [],'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': [],'RESET': []},
             {'SYSTEM': 'LORO', 'TS': 2, 'TGID': 9990, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE', 'ON': [], 'OFF': [],'RESET': []},
         ],
         'DMR+4370': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 4370, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4370], 'OFF': [84370], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 4370, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4370], 'OFF': [84370], 'RESET': []},
             {'SYSTEM': 'DMR+4370', 'TS': 2, 'TGID': 9, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},
         ],    
         'DMR+4371': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 4371, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4371], 'OFF': [84371], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 4371, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4371], 'OFF': [84371], 'RESET': []},
             {'SYSTEM': 'DMR+4371', 'TS': 2, 'TGID': 9, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},
         ], 
         'DMR+4374': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 4374, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4374], 'OFF': [84374], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 4374, 'ACTIVE': False, 'TIMEOUT': 10, 'TO_TYPE': 'ON',  'ON': [4374], 'OFF': [84374], 'RESET': []},
             {'SYSTEM': 'DMR+4374', 'TS': 2, 'TGID': 9, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},
         ],  
         'DMR+21465': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 21465, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [10], 'OFF': [5], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 21465, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [10], 'OFF': [5], 'RESET': []},
             {'SYSTEM': 'DMR+21465', 'TS': 2, 'TGID': 21465, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},
         ],
         'XLX266-Z': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 4026, 'ACTIVE': True, 'TIMEOUT': 10, 'TO_TYPE': 'NONE',  'ON': [4026], 'OFF': [84026], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 4026, 'ACTIVE': True, 'TIMEOUT': 10, 'TO_TYPE': 'NONE',  'ON': [4026], 'OFF': [84026], 'RESET': []},
             {'SYSTEM': 'XLX266-Z', 'TS': 2, 'TGID': 4026, 'ACTIVE': True, 'TIMEOUT': 10, 'TO_TYPE': 'NONE',  'ON': [4026], 'OFF': [], 'RESET': []},
             {'SYSTEM': 'XLX266-Z', 'TS': 2, 'TGID': 9, 'ACTIVE': True, 'TIMEOUT': 10, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},   
         ],
         'ADER-2': [
-            {'SYSTEM': 'EA3EIZ', 'TS': 2, 'TGID': 6565, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [6565], 'OFF': [86565], 'RESET': []},
+            {'SYSTEM': 'EAXXXX', 'TS': 2, 'TGID': 6565, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [6565], 'OFF': [86565], 'RESET': []},
             {'SYSTEM': 'ADER-2', 'TS': 2, 'TGID': 6565, 'ACTIVE': True, 'TIMEOUT': 2, 'TO_TYPE': 'NONE',  'ON': [], 'OFF': [], 'RESET': []},    
         ]   
 }
